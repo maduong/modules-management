@@ -3,6 +3,10 @@
     "description": "Edutalk modules-management",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/modules-management/issues",
+        "source": "https://github.com/maduong/modules-management"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
