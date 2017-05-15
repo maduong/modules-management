@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-modules-management",
+    "name": "Modules management",
+    "author": "Vuong Pham - <a href=\"https://github.com/vuong.pham\">https://github.com/vuong.pham</a>",
+    "description": "Manage modules, themes...",
+    "namespace": "Edutalk\\Base\\ModulesManagement",
+    "autoload": "psr-4"
+}
